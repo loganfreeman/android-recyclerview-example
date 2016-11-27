@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/scheng/Downloads/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_b9118ba8cc4f025533f57071c2eb5918afae885b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/Galacticon-Starter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/scheng/Downloads/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_5192f74d92f736e688874af796c2b10b69129c61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/Galacticon-Starter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/scheng/Downloads/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_1351510414d6175ca0716fba857f4a660e20d674/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/Galacticon-Starter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="02b8a913deec28fb523f536385142ae52117c88d">
+        <dex dex="/Users/scheng/Downloads/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_362e937c9b98f302263325c75c07e55ef03f6aac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/Galacticon-Starter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/scheng/Downloads/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_319d0b6922e5d9af5a8df97ba67bea3ef3bd315b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/Galacticon-Starter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="894488be9e448fc80da95fc8c064a894d7536869">
+        <dex dex="/Users/scheng/Downloads/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_96cb7df94b1fa5e17d33d81d320a14af6b5917e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/scheng/Downloads/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_95881dcf11189a7f4aa7fdc8980a37ecc74334d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/scheng/Downloads/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_489b16d5d44f531590bfeae7d83ad4d57226d3ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/Galacticon-Starter/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/scheng/Downloads/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_04dd11bd37609eb39382bfd38650c993b63f4805/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.1/b34c1f2d993044656e87f88970b6818e99e886ba/okhttp-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="/Users/scheng/Downloads/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.0.1_dc5d9a8984e06b1c7fafc8699e4e4e1b5572ec2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/Galacticon-Starter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/scheng/Downloads/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_5f880269c52952e767d4a294f531d19b621636e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scheng/Downloads/Galacticon-Starter/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/scheng/Downloads/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_3a2d80442db9bce1eb6cddfbaf6eef0949e1ad2b/classes.dex" />
+    </item>
+
+</items>
